@@ -1,4 +1,4 @@
-=======
+# Readme.md
 # Task Scheduler - Automation Platform
 
 A comprehensive workflow automation platform that allows you to build, manage, and execute complex task workflows (DAGs) with a visual interface. Create automated workflows with HTTP requests, email notifications, database operations, scripts, and more.
@@ -349,13 +349,3 @@ For more detailed information about automation features, see [AUTOMATION_FEATURE
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
- 
-
-
-
-
-
- 
-
-
->>>>>>> 8acbb02 (Initial commit)
